@@ -6,29 +6,20 @@
     "titleTemplate": "%s · Comprehensive Tax and Business Services",
     "description": "Probirds offers comprehensive tax and business services, including GST compliance, business registrations, international taxation, company & LLP compliances, and project funding.",
     "author": "Nishant Bhickta",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/favicon.png",
     "bio": "Probirds is a professional services firm that offers a wide range of tax and business services to individuals and businesses. Based in India, the company specializes in Goods & Services Tax (GST) compliance, business registrations, international taxation, company & LLP compliances, and project funding & finance. Probirds is committed to providing timely and reliable services to help its clients stay ahead of the curve in a dynamic market. With a team of experts who provide personalized attention and exceptional service, Probirds aims to help clients succeed by providing tailored solutions to meet their unique needs.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "ProBirds" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Services", "url": "/#features" },
-        { "label": "Contact", "url": "/#github" }
+        { "label": "Contact", "url": "/#github" },
+        { "label": "Our Team", "url": "/team" }
       ],
-      "ctaButton": {
-        "openNewTab": false,
-        "label": "Resume",
-        "url": "/resume.pdf"
-      },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }

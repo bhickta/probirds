@@ -1,14 +1,21 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Probirds"
 ---
+Probirds is a leading provider of business registration and taxation services for entrepreneurs and businesses of all sizes. Our team of experienced professionals is dedicated to providing high-quality services that help our clients succeed in their business ventures.
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+We offer a wide range of services to help businesses navigate the complex world of company registration and taxation. Our services include:
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+- **Business Registration Services**: Our team assists with all aspects of business incorporation, obtaining necessary licenses and permits, compliance and filings, and consulting and support.
+  
+- **Taxation Services**: Our team is well-versed in various tax laws and regulations, including GST and international taxation. We provide customized solutions for businesses and individuals to stay tax compliant, as well as tax planning and preparation services.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+- **Company & LLP Compliances**: We offer annual filings, secretarial services, and legal compliance assistance to ensure our clients are always in compliance with relevant laws and regulations.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+- **Project Funding & Finance**: Our team provides fundraising assistance, financial planning, and investment advisory services to help businesses secure the necessary funds to achieve their goals.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+## Our Commitment
+
+At Probirds, we are committed to delivering exceptional services that help our clients succeed. We strive to understand our clients' needs and provide customized solutions that fit their unique circumstances. Our team of professionals is dedicated to providing timely and accurate services that exceed our clients' expectations.
+
+Contact us today to learn more about how Probirds can help your business succeed.

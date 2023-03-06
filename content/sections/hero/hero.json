@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "Hello",
+  "title": "We are Probirds",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Your partner ",
+    "highlight": "for business success",
     "suffix": "."
   },
-  "description": "ProBirds",
+  "description": "Probirds is a professional services firm that offers a wide range of tax and business services to individuals and businesses. Based in India, the company specializes in Goods & Services Tax (GST) compliance, business registrations, international taxation, company & LLP compliances, and project funding & finance. Probirds is committed to providing timely and reliable services to help its clients stay ahead of the curve in a dynamic market. With a team of experts who provide personalized attention and exceptional service, Probirds aims to help clients succeed by providing tailored solutions to meet their unique needs..irds",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

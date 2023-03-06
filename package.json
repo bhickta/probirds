@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Probirds",
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build && cp ./CNAME ./public/ && gh-pages -d public",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
@@ -15,7 +15,6 @@
   "dependencies": {
     "gatsby": "^5.0.1",
     "gatsby-theme-portfolio-minimal": "latest",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -41,5 +40,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
