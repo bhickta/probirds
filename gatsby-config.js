@@ -7,7 +7,7 @@ pathPrefix: "/probirds",
         siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "Probirds", // Used in manifest.json
+          siteName: "Probirds | Business", // Used in manifest.json
           shortName: "Probirds", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
