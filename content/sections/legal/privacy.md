@@ -22,4 +22,4 @@ We may use cookies and tracking technologies to collect information about your u
 Updates to Privacy Policy
 We may update this Privacy Policy from time to time. We will post any updates on our website and notify you by email if there are any material changes.
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [insert contact information].
+If you have any questions or concerns about our Privacy Policy, please contact us.

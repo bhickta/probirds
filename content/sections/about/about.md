@@ -15,7 +15,6 @@ We offer a wide range of services to help businesses navigate the complex world 
 - **Project Funding & Finance**: Our team provides fundraising assistance, financial planning, and investment advisory services to help businesses secure the necessary funds to achieve their goals.
 
 ## Our Commitment
-
 At Probirds, we are committed to delivering exceptional services that help our clients succeed. We strive to understand our clients' needs and provide customized solutions that fit their unique circumstances. Our team of professionals is dedicated to providing timely and accurate services that exceed our clients' expectations.
 
 Contact us today to learn more about how Probirds can help your business succeed.
